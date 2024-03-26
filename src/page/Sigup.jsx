@@ -131,7 +131,7 @@ function Signup() {
               </button>
             </div>
             <span className="register-link">
-              Don't have an account? <Link to="/Login">Login</Link>
+              Don't have an account? <Link to="/Signin">Login</Link>
             </span>
           </form>
         </div>

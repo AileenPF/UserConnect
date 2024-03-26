@@ -32,7 +32,7 @@ function App() {
           }
         />
         <Route
-          path="/Sigup"
+          path="/Signup"
           element={
             <>
               <Sigup />
